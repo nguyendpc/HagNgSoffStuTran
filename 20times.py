@@ -6,12 +6,12 @@ Created on Sat Dec 25 23:00:32 2021
 """
 
 
-import euler_subsonic_nguyen
-import euler_exact_nguyen
-import maxwell_orthotropic_nguyen
-import maxwell_orthotropic_exact_nguyen
+import 20euler_subsonic
+import 20euler_exact
+import 20maxwell_orthotropic
+import 20maxwell_orthotropic_exact
 
-euler_subsonic_nguyen
-euler_exact_nguyen
-maxwell_orthotropic_nguyen
-maxwell_orthotropic_exact_nguyen
+20euler_subsonic
+20euler_exact
+20maxwell_orthotropic
+20maxwell_orthotropic_exact
